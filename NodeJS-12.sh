@@ -1,5 +1,5 @@
 apt install nodejs npm
-curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh (remplace le 12 par la version voulu)
+curl -sL https://deb.nodesource.com/setup_17.x -o nodesource_setup.sh
 bash nodesource_setup.sh
 apt install nodejs
 node -v
